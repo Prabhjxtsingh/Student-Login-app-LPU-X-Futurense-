@@ -26,7 +26,7 @@ To run the project on your local machine, follow these steps:
 
 
 -> Clone the repository:
-- git clone https://github.com/PrathmeshKushwaha/metric-intelligence.git
+- git clone https://github.com/Prabhjxtsingh/Student-Login-app-LPU-X-Futurense-.git
 - cd metric-intelligence-team
 
 
